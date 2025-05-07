@@ -1,1 +1,2 @@
-# CityKart
+CityKart is a modern and visually appealing eCommerce website frontend that provides users with a seamless and responsive shopping interface. Built using React.js, Tailwind CSS, Material UI, and enhanced with smooth DoS animations, this project showcases a clean layout, dynamic product sections, and a fully functional dark mode toggle. Designed for both performance and aesthetics, CityKart demonstrates the power of component-based architecture and modern UI frameworks to deliver an engaging user experience across devices.
+
